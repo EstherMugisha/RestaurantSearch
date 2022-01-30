@@ -1,0 +1,8 @@
+spring:
+  application:
+    name:restaurant-system
+  data:
+    mongodb:
+      database: restaurant-sytem-db
+      host:localhost
+      port:27017
